@@ -10,6 +10,7 @@ public class EqualsRunner {
         }
         //equals
         //hashcode
+        //whenever you implement equal method, hashcode should be implemented
 
         @Override
         public boolean equals(Object that) {
